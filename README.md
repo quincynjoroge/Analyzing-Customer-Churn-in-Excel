@@ -1,4 +1,5 @@
 # Analyzing Customer Churn in Excel
+**_NB: You can download the Excel file and access the dashboard from the overview sheet_**
 
 ## Problem Definition
 Using a fictitious churn dataset from a Telecom provider called Databel. I analyzed why customers are churning, or in other words, leaving Databel.
